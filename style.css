@@ -117,6 +117,8 @@ hr
 {
   background-color: #212529;
   color: #fff;
+  overflow-y: scroll;
+  height:100%;
 }
 
 #github
