@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 
-@-ms-viewport{
-  width: device-width;
-}
 
 body
 {
@@ -186,7 +183,7 @@ hr
 #logo
 {
   text-align: center;
-  margin-top: 225px;
+  margin-top: 300px;
   margin-bottom: 20px;
   
 }
