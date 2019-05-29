@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
+@-ms-viewport{
+  width: device-width;
+}
+
+body
+{
+background-color: #212529;
+overflow: hidden;
+}
+
+.title
+{
+    color: #8be9fd;
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.headerTitle
+{
+    color: #8be9fd;
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.jsTitle
+{
+  color: #8be9fd;
+  font-family: 'Inconsolata', monospace;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.js-content
+{
+  color: #fff;
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.center-content
+{
+   color: #6272A4;
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    text-align: left;
+}
+
+.daysAgo
+{
+float:right;
+color: #999999;
+}
+
+.git-content
+{
+  text-align: center;
+}
+
+.gitlab 
+{
+  color: #6272A4;
+  font-size: 12px;
+  text-align: center;
+  margin-top: -15px;
+}
+
+.time
+{
+  color: #6272A4;
+  font-size: 120px;
+  font-family: Helvetica;
+  text-align: center;
+  margin-top: 75px;
+}
+
+a
+{
+  color: #6272A4;
+}
+
+hr
+{
+  background-color: #6c757d;
+}
+
+#main
+{
+  background-color: #212529;
+  height: 100%;
+}
+
+#sidebar
+{
+ height: 100vh;
+ max-width: 10vw;
+ background-color: #44475A;
+ font-weight: bold;
+}
+
+#settings
+{
+  text-align: left;
+  margin: 20px -20px 20px 0px;
+
+}
+
+#gists
+{
+  color: #28a745;
+  text-align: left;
+}
+
+#stack
+{
+  color: #fd7e14;
+   text-align: left;
+}
+
+#trending
+{
+  color: #e83e8c;
+   text-align: left;
+}
+
+#scratch
+{
+  color: #6f42c1;
+   text-align: left;
+}
+
+#play
+{
+  color: #fff;
+   text-align: left;
+}
+
+#help
+{
+  color: #ffc107;
+   text-align: left;
+}
+
+#reddit
+{
+  background-color: #212529;
+  overflow-y: scroll;
+  height:100vh;
+}
+
+#javascript
+{
+  background-color: #212529;
+  color: #fff;
+  height:100%;
+}
+
+#github
+{
+  background-color: #212529;
+  overflow-y: scroll;
+  height:100vh;
+  min-width: 23vw;
+}
+
+#issues
+{
+  font-family: Helvetica;
+  font-size: 13px;
+  color: #ffc107;
+}
+
+#pullrequests
+{
+  font-family: Helvetica;
+  font-size: 13px;
+  color: #e83e8c;
+}
+
+#logo
+{
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 20px;
+  
+}
+
+#socialmedia
+{
+  text-align: center;
+}
+
+.socMedIcon
+{
+  height: 25px;
+  width: 25px;
+}
+
+.git-issues
+{
+  margin: 20px 0px 50px 0px;
+  border-left: 5px solid #44475A;
+  padding-left: 5px;
+  text-align: center;
+}
+
+.reddit-item
+{
+  border-left: 5px solid #44475A;
+  padding-left: 5px;
+  text-align: center;
+}
+
+.reddit-score
+{
+  color: #6272A4;
+  margin-top: -10px;
+  margin-bottom: 0px;
+}
+
+.comments-link
+{
+  color: #FF79C6;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+.issueNumber
+{
+  color: #ffc107;
+  margin: 0px 0px 0px 0px;
+  text-algin: center;
+}
+
+.repo 
+{
+  color: #6272A4;
+    text-align: center;
+  margin-bottom: 0px;
+
+}
+
+.dateee
+{
+  text-align: center;
+  font-size: 30px;
+  font-family: Helvetica;
+  color: #6272A4;
+  margin-top: -40px;
+}
