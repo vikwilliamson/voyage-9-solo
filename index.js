@@ -11,9 +11,9 @@ function updateTime() {
             seconds = "0" + seconds;
         } 
         if (hours > 13){
-          hours -= 12;
+         var displayHours = hours - 12;
         }
-        var displayTime = hours + ":" + minutes + " ";
+        var displayTime = displayHours + ":" + minutes + " ";
         if(hours > 11){
             displayTime+="PM";
         } else {
